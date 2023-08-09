@@ -1,4 +1,4 @@
-# Moduł Zarządzanie Kontrahentami
+# Moduł Zarządzanie Kontrahentami (Projekt uczelniany)
 ## Funkcjonalności
 * Przechowywanie danych na temat kontrahenta.
 * Dodawanie nowych kontrahentów.
