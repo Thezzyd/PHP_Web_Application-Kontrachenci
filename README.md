@@ -16,13 +16,13 @@
 * Środowisko programistyczne: **Visual Studio Code**
 
 ## Diagram ERD
-|![erd_diagram](/diagrams/erd.png) | 
+|![erd_diagram](/diagrams/erd_diagram.png) | 
 |:--:| 
 | *Rysunek 1. Diagram ERD.* |
 
 ## Algorytm sprawdzenia liczby wystawionych faktur oraz sald zapłaconych i niezapłaconych faktur za wskazany okres:
 
-|![erd_diagram](/diagrams/invoice_algorithm.png) | 
+|![invoices_algorithm](/diagrams/invoice_algorithm.png) | 
 |:--:| 
 | *Rysunek 2. Schemat blokowy przedstawiający algorytm realizujący zliczanie wystawionych faktur.* |
 
