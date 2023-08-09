@@ -1,7 +1,4 @@
 # Moduł Zarządzanie Kontrahentami
-## Opis
-Wykonany moduł skupia się wokół gromadzenia informacji o  kontrahentach. Umożliwia wykonywanie takich czynności jak wyszukiwanie kontrahentów według różnych kryteriów. Moduł zapewni utrzymanie porządku w posiadanych informacjach (np. Adres, osoby kontaktowe). Pozwoli nam na szybkie wyszukiwanie i filtrowanie informacji.
-
 ## Funkcjonalności
 * Przechowywanie danych na temat kontrahenta.
 * Dodawanie nowych kontrahentów.
@@ -9,15 +6,14 @@ Wykonany moduł skupia się wokół gromadzenia informacji o  kontrahentach. Umo
 * Usuwanie niechcianych lub nieaktualnych kontrahentów, oraz poszczególnych informacji (np. nieaktualny nr telefonu u jednej z osób kontaktowych).
 * Możliwość wyszukiwania informacji np. Kontrahentów po nazwie.
 * Możliwość sortowania i filtrowania informacji.
-* Wyświetlanie i zliczanie liczby faktur na podstawie "zamockowanych" danych o fakturach powiązanych z kontrachentami (przygotowanie programu na sięganie do modułu fakturowania, który nie jest zaimplementowany)
+* Wyświetlanie i zliczanie liczby faktur na podstawie "zamockowanych" danych o fakturach powiązanych z kontrahentami (przygotowanie programu na sięganie do modułu fakturowania, który nie jest zaimplementowany)
 
-## Wykorzystane technologie:
-* Rozwiązania bazodanowe: XAMPP- phpMyAdmin, mySQL
-* API:  REST API pisane w języku PHP, przy tworzeniu wykorzystany „micro framework” - Slim
-* Warstwa prezentacji aplikacji: HTML, CSS, JavaScript
-* Graficzna prezentacja algorytmu oraz diagramu ERD: Draw.io 
-* Środowisko programistyczne: Visual Studio Code
-
+## Narzędzia i technologie:
+* Rozwiązania bazodanowe: **XAMPP, phpMyAdmin, mySQL**
+* API: **REST API, PHP, Slim**
+* Warstwa prezentacji aplikacji: **HTML, CSS, JavaScript**
+* Graficzna prezentacja algorytmu oraz diagramu ERD: **Draw.io**
+* Środowisko programistyczne: **Visual Studio Code**
 
 ## Diagram ERD
 |![erd_diagram](/diagrams/erd.png) | 
